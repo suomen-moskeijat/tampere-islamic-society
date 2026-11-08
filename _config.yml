@@ -1,0 +1,10 @@
+# Tampere Islamic Society – sivun asetukset
+# Ulkoasu, rukousaikojen ja Instagramin haku: https://github.com/suomen-moskeijat/pohja
+title: "Tampere Islamic Society"
+description: "Tampere Islamic Society, Yliopistonkatu 60 A, 33100 Tampere. Rukousajat, tapahtumat ja toiminta."
+moskeija: tampere-islamic-society     # tiedosto _moskeijat/tampere-islamic-society.md
+
+# Osoite: https://suomen-moskeijat.github.io/tampere-islamic-society/
+# Omalla verkkotunnuksella (esim. moskeija.fi): url: "https://moskeija.fi" ja baseurl: ""
+url: "https://suomen-moskeijat.github.io"
+baseurl: "/tampere-islamic-society"
