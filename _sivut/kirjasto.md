@@ -1,6 +1,6 @@
 ---
 title: "Kirjasto"
-valikossa: false
+valikossa: true
 jarjestys: 10
 # Tuotu vanhalta sivulta: http://islamtampere.com/kirjasto/ – tarkista
 ---

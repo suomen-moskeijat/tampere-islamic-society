@@ -1,6 +1,6 @@
 ---
 title: "Barnabaan evankeliumi"
-valikossa: true
+valikossa: false
 jarjestys: 2
 # Tuotu vanhalta sivulta: http://islamtampere.com/barnabaan-evankeliumi/ – tarkista
 ---
